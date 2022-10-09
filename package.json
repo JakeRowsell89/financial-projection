@@ -1,0 +1,21 @@
+{
+  "name": "financial-projection",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "12.0.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-vis": "^1.11.7"
+  },
+  "devDependencies": {
+    "eslint": "7",
+    "eslint-config-next": "12.0.3",
+    "recharts": "^2.1.6"
+  }
+}
